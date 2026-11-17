@@ -29,8 +29,10 @@ def get(url: str, cache: Path = None) -> bytes:
 
 def filings(form: str = "6-K") -> List[Dict]:
     """All filings of one form type, newest first."""
-    sub = json.loads(get(f"https://data.sec.gov/submissions/CIK{int(C.CIK):010d}.json",
-                         C.RAW / "submissions.json"))
+    body = get(f"https://data.sec.gov/submissions/CIK{int(C.CIK):010d}.json")   # always fresh: new filings appear here
+    C.RAW.mkdir(parents=True, exist_ok=True)
+    (C.RAW / "submissions.json").write_bytes(body)
+    sub = json.loads(body)
     rec = sub["filings"]["recent"]
     out = []
     for i, f in enumerate(rec["form"]):
@@ -55,7 +57,8 @@ def results_releases() -> List[Dict]:
         for name in cands:
             url = f"{ARCHIVES}/{acc}/{name}"
             html = get(url, C.RAW / acc / name).decode("utf-8", "replace")
-            m = re.search(r"announces\s+(Q[1-4])\s+(\d{4})\s+results", re.sub(r"<[^>]+>", " ", html), re.I)
+            m = re.search(r"(?:announces|reports)\s+(Q[1-4])\s+(\d{4})\s+(?:financial\s+)?results",
+                          re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html)), re.I)
             if m:
                 found.append({**f, "quarter": f"{m.group(1).upper()} {m.group(2)}", "url": url,
                               "path": str(C.RAW / acc / name)})

@@ -163,7 +163,8 @@ def findings(r: Dict) -> str:
     if g:
         L += ["## 5. Guidance"] + [f"- From the {d['release']} release: {d['target']} revenue ${d['revenue_low_m']:,.0f}m–"
                                    f"${d['revenue_high_m']:,.0f}m (midpoint ${d['midpoint_m']:,.0f}m)." for d in g]
-        fy = [d for d in g if "fiscal" in d["target"].lower() or "year" in d["target"].lower()]
+        fy = [d for d in g if d["target"].upper().startswith("FY") or "fiscal" in d["target"].lower()
+              or "year" in d["target"].lower()]
         h1 = c[c.period.str.startswith("H1")] if len(c) else c
         qr = q.set_index("period").revenue_m
         if fy:

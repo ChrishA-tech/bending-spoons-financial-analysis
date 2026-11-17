@@ -189,11 +189,24 @@ def parse_release(html: str, release: str, url: str) -> List[Dict]:
 def text_facts(html: str) -> Dict[str, object]:
     """Facts stated in prose: organic growth and guidance (kept with the sentence they came from)."""
     text = re.sub(r"\s+", " ", BeautifulSoup(html, "lxml").get_text(" "))
-    facts = {"organic_growth_pct": None, "organic_sentence": None, "guidance": []}
+    text = re.sub(r"[⁰¹²³⁴⁵⁶⁷⁸⁹]+", " ", text)            # footnote markers, e.g. "growth⁴ was"
+    facts = {"organic_growth_pct": None, "organic_sentence": None, "guidance": [], "guidance_ranges": []}
     m = re.search(r"([^.]*organic revenue growth\W*\d?\s*was\s*(-?\d+(?:\.\d+)?)\s*%[^.]*\.)", text, re.I)
     if m:
         facts["organic_growth_pct"], facts["organic_sentence"] = float(m.group(2)), m.group(1).strip()
     for s in re.split(r"(?<=[.!?])\s+(?=[A-Z])", text):
         if re.search(r"expect|forecast|outlook|guidance", s, re.I) and re.search(r"\$[\d.,]+\s*(?:million|billion)", s):
             facts["guidance"].append(s.strip()[:400])
+    # Ranges: "For Q3 2026, we forecast ...: Revenue of $733 million to $745 million" / "For 2026 ... $2.78 billion to ..."
+    k = lambda v, u: float(v.replace(",", "")) * (1000 if u.lower() == "billion" else 1)   # noqa: E731
+    pat = re.compile(r"\bfor (?:the )?(Q[1-4] \d{4}|fiscal(?: year)? \d{4}|full[- ]year \d{4}|(?:FY ?)?\d{4})\b(.{0,300}?)"
+                     r"revenue (?:of )?(?:between )?\$([\d.,]+)\s*(million|billion)\s*(?:to|and|-|–)\s*\$([\d.,]+)\s*"
+                     r"(million|billion)", re.I)
+    for m in pat.finditer(text):
+        tgt = m.group(1)
+        tgt = tgt.upper() if tgt[0] in "qQ" else "FY " + re.search(r"\d{4}", tgt).group(0)
+        lo, hi = k(m.group(3), m.group(4)), k(m.group(5), m.group(6))
+        if not any(g["target"] == tgt for g in facts["guidance_ranges"]):
+            facts["guidance_ranges"].append({"target": tgt, "revenue_low_m": lo, "revenue_high_m": hi,
+                                             "midpoint_m": round((lo + hi) / 2, 1), "sentence": m.group(0)[:300]})
     return facts

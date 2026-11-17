@@ -32,7 +32,8 @@ def test_parse_release_reads_split_cells_colspans_and_sections(q2_html):
 def test_text_facts(q2_html):
     f = text_facts(q2_html)
     assert f["organic_growth_pct"] == 3.0
-    assert any("$2.82 billion" in s for s in f["guidance"])
+    g = {x["target"]: x for x in f["guidance_ranges"]}
+    assert g["Q3 2026"]["revenue_low_m"] == 733 and g["FY 2026"]["midpoint_m"] == 2800
 
 
 @pytest.fixture
@@ -57,7 +58,7 @@ def test_metrics_match_published_figures(built):
     c = r["cash"].set_index("period")
     assert c.loc["H1 2026", "free_cash_flow_m"] == 250.3
     g = {d["target"]: d for d in r["guidance"]}
-    assert g["fiscal 2026"]["midpoint_m"] == 2800.0 and g["Q3 2026"]["revenue_low_m"] == 733.0
+    assert g["FY 2026"]["midpoint_m"] == 2800.0 and g["Q3 2026"]["revenue_low_m"] == 733.0
 
 
 def test_outputs(built):

@@ -31,10 +31,11 @@ def q2_2026_html():
     t3 = [("Three months ended June 30,", 2)]
     parts = [
         "<p>Bending Spoons announces Q2 2026 results</p>",
-        "<p>Revenue grew by $393 million (126%). Organic revenue growth<sup>4</sup> was 3% in Q2 2026, with Tractive "
+        "<p>Revenue grew by $393 million (126%). Organic revenue growth⁴ was 3% in Q2 2026, with Tractive "
         "and WeTransfer making the largest contributions.</p>",
-        "<p>For Q3 2026, we expect revenue of between $733 million and $745 million. For fiscal 2026, we expect revenue "
-        "of between $2.78 billion and $2.82 billion.</p>",
+        "<p>Outlook</p><p>For Q3 2026, we forecast the following results:</p><ul><li>Revenue of $733 million to $745 "
+        "million, implying year-over-year growth of 113% at the midpoint.</li></ul><p>For 2026, we forecast the following "
+        "results:</p><ul><li>Revenue of $2.78 billion to $2.82 billion.</li></ul>",
         _table("Operating results (unaudited)", "Thousands, except percentages and per-share amounts", t3, ["2025", "2026"], [
             ("Revenue", 311100, 704155, "126 %"), ("Gross profit", 204485, 463621, "127 %"),
             ("Operating income", 100617, 240251, "139 %"),

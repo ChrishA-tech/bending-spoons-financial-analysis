@@ -152,7 +152,9 @@ def balance(b: Book, q: pd.DataFrame) -> pd.DataFrame:
 
 
 def guidance(facts: Dict) -> List[Dict]:
-    out = []
+    out = [{"release": rel, **g} for rel, f in facts.items() for g in f.get("guidance_ranges", [])]
+    if out:
+        return out
     for rel, f in facts.items():
         for s in f.get("guidance", []):
             m = re.search(r"(Q[1-4] \d{4}|fiscal \d{4}|full[- ]year \d{4}|\d{4})[^$]*?revenue[^$]*\$([\d.,]+)\s*(million|billion)\s*(?:and|to|-|–)\s*\$([\d.,]+)\s*(million|billion)", s, re.I)
