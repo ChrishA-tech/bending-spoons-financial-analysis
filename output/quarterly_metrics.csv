@@ -1,0 +1,5 @@
+period,revenue_m,revenue_growth_yoy_pct,organic_growth_pct,acquired_growth_pct,gross_margin_pct,operating_margin_pct,adj_operating_margin_pct,net_margin_pct,gap_adj_vs_gaap_pp,amortisation_pct_rev,reorganisation_pct_rev,transaction_pct_rev,interest_coverage_x,operating_income_m,adj_operating_income_m,net_income_m,interest_expense_m
+Q1 2025,258.9,,,,63.9,-1.8,,-43.3,,,,,-0.24,-4.6,,-112.2,19.3
+Q2 2025,311.1,,,,65.7,32.3,49.0,21.0,16.7,11.6,3.6,0.2,2.82,100.6,152.5,65.3,35.7
+Q1 2026,601.3,132.2,,,67.9,20.0,,4.6,,,,,1.29,120.2,,27.5,93.2
+Q2 2026,704.2,126.3,3.0,123.3,65.8,34.1,54.1,25.1,20.0,11.7,7.2,0.9,2.2,240.3,381.1,177.0,109.0

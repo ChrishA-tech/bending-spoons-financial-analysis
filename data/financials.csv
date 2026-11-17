@@ -1,0 +1,336 @@
+release,statement,line_item,period,value,unit,source_url,table
+Q2 2026,adjusted_measures,Adjusted Earnings per Share¹,Q2 2025,0.17,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Earnings per Share¹,Q2 2026,0.46,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Net Income Margin¹,Q2 2025,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Net Income Margin¹,Q2 2026,42.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Net Income¹,Q2 2025,106385.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Net Income¹,Q2 2026,292976.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Operating Income,Q2 2025,152525.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Operating Income,Q2 2026,381149.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Operating Income Margin,Q2 2025,49.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,adjusted_measures,Adjusted Operating Income Margin,Q2 2026,54.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,1
+Q2 2026,balance_sheet,Accounts payable,2025-12-31,21413.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Accounts payable,2026-06-30,35895.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Accounts receivable, net",2025-12-31,144593.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Accounts receivable, net",2026-06-30,278767.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Accrued and other current liabilities,2025-12-31,165951.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Accrued and other current liabilities,2026-06-30,622926.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Additional paid-in capital,2025-12-31,662753.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Additional paid-in capital,2026-06-30,704070.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Cash and cash equivalents,2025-12-31,629944.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Cash and cash equivalents,2026-06-30,792950.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Common stock,2025-12-31,1467.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Common stock,2026-06-30,14760.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Costs to obtain contracts, current",2025-12-31,16545.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Costs to obtain contracts, current",2026-06-30,17557.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Costs to obtain contracts, non-current",2025-12-31,523.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Costs to obtain contracts, non-current",2026-06-30,695.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Deferred revenue, current",2025-12-31,450499.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Deferred revenue, current",2026-06-30,583265.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Deferred revenue, non-current",2025-12-31,214.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Deferred revenue, non-current",2026-06-30,38404.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Deferred tax assets,2025-12-31,271073.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Deferred tax assets,2026-06-30,270165.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Deferred tax liabilities,2025-12-31,349073.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Deferred tax liabilities,2026-06-30,491632.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Goodwill,2025-12-31,2423570.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Goodwill,2026-06-30,4146212.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Income tax current liabilities,2025-12-31,65407.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Income tax current liabilities,2026-06-30,76427.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Income tax receivables, current",2025-12-31,12838.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Income tax receivables, current",2026-06-30,12611.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Intangible assets, net",2025-12-31,1077974.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Intangible assets, net",2026-06-30,2156607.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Long-term debt, current",2025-12-31,415260.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Long-term debt, current",2026-06-30,794141.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Long-term debt, non-current",2025-12-31,2255622.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Long-term debt, non-current",2026-06-30,4086939.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Other current assets,2025-12-31,74312.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Other current assets,2026-06-30,200131.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Other equity items,2025-12-31,330643.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Other equity items,2026-06-30,539582.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Other non-current assets, net",2025-12-31,54611.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Other non-current assets, net",2026-06-30,116167.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Other non-current liabilities,2025-12-31,39193.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Other non-current liabilities,2026-06-30,67357.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Prepaid expenses,2025-12-31,40433.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Prepaid expenses,2026-06-30,49686.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Property, plant, and equipment, net",2025-12-31,11078.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,"Property, plant, and equipment, net",2026-06-30,13851.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total assets,2025-12-31,4757495.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total assets,2026-06-30,8055399.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total current assets,2025-12-31,918664.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total current assets,2026-06-30,1351702.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total current liabilities,2025-12-31,1118530.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total current liabilities,2026-06-30,2112654.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total liabilities,2025-12-31,3762632.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total liabilities,2026-06-30,6796987.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total liabilities and shareholders’ equity,2025-12-31,4757495.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total liabilities and shareholders’ equity,2026-06-30,8055399.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total shareholders’ equity,2025-12-31,994863.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,balance_sheet,Total shareholders’ equity,2026-06-30,1258412.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,2
+Q2 2026,cash_flow,Accounts payable,H1 2025,-17567.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Accounts payable,H1 2026,4820.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Accounts receivable, net",H1 2025,-667.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Accounts receivable, net",H1 2026,-77337.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Accrued and other liabilities,H1 2025,-9951.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Accrued and other liabilities,H1 2026,-17062.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Acquisitions of businesses net of cash, cash equivalents, and restricted cash acquired",H1 2025,-575228.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Acquisitions of businesses net of cash, cash equivalents, and restricted cash acquired",H1 2026,-2286259.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Cash and cash equivalents at the end of the period,H1 2025,449654.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Cash and cash equivalents at the end of the period,H1 2026,792950.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Cash, cash equivalents, and restricted cash at the beginning of the period",H1 2025,238723.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Cash, cash equivalents, and restricted cash at the beginning of the period",H1 2026,629944.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Cash, cash equivalents, and restricted cash at the end of the period",H1 2025,449654.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Cash, cash equivalents, and restricted cash at the end of the period",H1 2026,840950.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Change in provisions,H1 2025,3529.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Change in provisions,H1 2026,4424.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Change in the fair value of interest rate swaps,H1 2025,1914.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Change in the fair value of interest rate swaps,H1 2026,-9397.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Deferred revenue,H1 2025,23192.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Deferred revenue,H1 2026,15247.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Deferred tax expense (benefit),H1 2025,78444.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Deferred tax expense (benefit),H1 2026,9286.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Effect of exchange rate changes on cash, cash equivalents, and restricted cash",H1 2025,9573.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Effect of exchange rate changes on cash, cash equivalents, and restricted cash",H1 2026,-20455.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Equity compensation expense,H1 2025,27885.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Equity compensation expense,H1 2026,42984.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Impairment and amortization of intangible assets,H1 2025,65788.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Impairment and amortization of intangible assets,H1 2026,151473.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Impairment and depreciation of property, plant, and equipment",H1 2025,2457.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Impairment and depreciation of property, plant, and equipment",H1 2026,2469.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Income tax liabilities and income tax assets, current",H1 2025,-34586.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Income tax liabilities and income tax assets, current",H1 2026,-13084.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Interests paid,H1 2025,49737.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Interests paid,H1 2026,161153.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net cash from financing activities,H1 2025,689188.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net cash from financing activities,H1 2026,2267448.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net cash from investing activities,H1 2025,-575563.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net cash from investing activities,H1 2026,-2290228.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net cash from operating activities,H1 2025,87733.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net cash from operating activities,H1 2026,254240.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net income (loss),H1 2025,-46953.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Net income (loss),H1 2026,204433.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Net increase (decrease) in cash, cash equivalents, and restricted cash",H1 2025,210931.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Net increase (decrease) in cash, cash equivalents, and restricted cash",H1 2026,211006.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Non-cash interest expense,H1 2025,5007.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Non-cash interest expense,H1 2026,15842.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Other,H1 2025,6127.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Other,H1 2026,-56874.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Other assets,H1 2025,-16888.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Other assets,H1 2026,-22982.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Payments of debt issuance cost,H1 2025,-25777.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Payments of debt issuance cost,H1 2026,-103621.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Principal repayments of long-term debt,H1 2025,-298113.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Principal repayments of long-term debt,H1 2026,-203694.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Proceeds from issuance of common stock for equity compensation,H1 2025,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Proceeds from issuance of common stock for equity compensation,H1 2026,6937.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Proceeds from issuance of debt,H1 2025,1012901.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Proceeds from issuance of debt,H1 2026,2566532.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Proceeds from paid-in capital increase and sale of treasury shares,H1 2025,178.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Proceeds from paid-in capital increase and sale of treasury shares,H1 2026,1294.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Purchase of intangible assets,H1 2025,-53.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Purchase of intangible assets,H1 2026,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Purchase of property, plant, and equipment",H1 2025,-282.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,"Purchase of property, plant, and equipment",H1 2026,-3969.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Restricted cash at the end of the period,H1 2025,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Restricted cash at the end of the period,H1 2026,48000.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Total cash generated (used),H1 2025,201359.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,cash_flow,Total cash generated (used),H1 2026,231461.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,4
+Q2 2026,income_statement,Basic¹,H1 2025,-0.08,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Basic¹,H1 2026,0.34,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Basic¹,Q2 2025,0.11,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Basic¹,Q2 2026,0.3,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Cost of revenue,H1 2025,200118.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Cost of revenue,H1 2026,433651.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Cost of revenue,Q2 2025,106615.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Cost of revenue,Q2 2026,240534.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,"Diluted¹ , ²",H1 2025,-0.08,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,"Diluted¹ , ²",H1 2026,0.32,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,"Diluted¹ , ²",Q2 2025,0.11,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,"Diluted¹ , ²",Q2 2026,0.28,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,General and administrative expense,H1 2025,142754.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,General and administrative expense,H1 2026,227573.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,General and administrative expense,Q2 2025,53774.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,General and administrative expense,Q2 2026,92488.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Gross profit,H1 2025,369928.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Gross profit,H1 2026,871825.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Gross profit,Q2 2025,204485.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Gross profit,Q2 2026,463621.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income before tax,H1 2025,34220.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income before tax,H1 2026,227101.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income before tax,Q2 2025,62139.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income before tax,Q2 2026,150769.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income tax expense (benefit),H1 2025,81173.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income tax expense (benefit),H1 2026,22668.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income tax expense (benefit),Q2 2025,-3113.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Income tax expense (benefit),Q2 2026,-26198.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Interest expense,H1 2025,55049.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Interest expense,H1 2026,202154.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Interest expense,Q2 2025,35733.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Interest expense,Q2 2026,108970.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss),H1 2025,-46953.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss),H1 2026,204433.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss),Q2 2025,65253.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss),Q2 2026,176967.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to Bending Spoons shareholders,H1 2025,-46885.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to Bending Spoons shareholders,H1 2026,204433.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to Bending Spoons shareholders,Q2 2025,65283.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to Bending Spoons shareholders,Q2 2026,176967.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to non-controlling interests,H1 2025,-67.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to non-controlling interests,H1 2026,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to non-controlling interests,Q2 2025,-31.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Net income (loss) attributable to non-controlling interests,Q2 2026,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Operating income,H1 2025,96003.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Operating income,H1 2026,360422.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Operating income,Q2 2025,100617.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Operating income,Q2 2026,240251.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Other expense (income),H1 2025,6734.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Other expense (income),H1 2026,-68832.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Other expense (income),Q2 2025,2745.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Other expense (income),Q2 2026,-19488.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Research and development expense,H1 2025,63157.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Research and development expense,H1 2026,152599.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Research and development expense,Q2 2025,19398.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Research and development expense,Q2 2026,58204.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Revenue,H1 2025,570046.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Revenue,H1 2026,1305476.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Revenue,Q2 2025,311100.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Revenue,Q2 2026,704155.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Sales and marketing expense,H1 2025,68014.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Sales and marketing expense,H1 2026,131230.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Sales and marketing expense,Q2 2025,30696.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,income_statement,Sales and marketing expense,Q2 2026,72679.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,3
+Q2 2026,operating_results,Diluted earnings per share,Q2 2025,0.11,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Diluted earnings per share,Q2 2026,0.28,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Gross profit,Q2 2025,204485.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Gross profit,Q2 2026,463621.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Net income,Q2 2025,65253.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Net income,Q2 2026,176967.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Net income as a percentage of revenue,Q2 2025,21.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Net income as a percentage of revenue,Q2 2026,25.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Operating income,Q2 2025,100617.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Operating income,Q2 2026,240251.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Operating income as a percentage of revenue,Q2 2025,32.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Operating income as a percentage of revenue,Q2 2026,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Revenue,Q2 2025,311100.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,operating_results,Revenue,Q2 2026,704155.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,0
+Q2 2026,other,"Adjusted Earnings per Share, original definition",FY 2023,0.18,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, original definition",FY 2024,0.38,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, original definition",FY 2025,0.6,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, original definition",Q1 2025,0.08,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, original definition",Q1 2026,0.32,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, original definition",Q2 2025,0.16,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, original definition",Q2 2026,0.48,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",FY 2023,0.2,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",FY 2024,0.38,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",FY 2025,0.65,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",Q1 2025,0.09,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",Q1 2026,0.26,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",Q2 2025,0.17,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Earnings per Share, revised definition",Q2 2026,0.46,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,"Adjusted Net Income Margin, original definition",FY 2023,25.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, original definition",FY 2024,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, original definition",FY 2025,29.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, original definition",Q1 2025,19.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, original definition",Q1 2026,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, original definition",Q2 2025,32.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, original definition",Q2 2026,43.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",FY 2023,27.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",FY 2024,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",FY 2025,31.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",Q1 2025,20.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",Q1 2026,27.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",Q2 2025,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income Margin, revised definition",Q2 2026,42.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",FY 2023,95856.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",FY 2024,229364.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",FY 2025,375592.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",Q1 2025,48502.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",Q1 2026,205977.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",Q2 2025,100289.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, original definition",Q2 2026,304654.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",FY 2023,103882.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",FY 2024,224899.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",FY 2025,401696.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",Q1 2025,52985.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",Q1 2026,162877.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",Q2 2025,106385.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,"Adjusted Net Income, revised definition",Q2 2026,292976.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,FY 2023,4281.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,FY 2024,-0.02,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,FY 2025,34157.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q1 2025,0.01,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q1 2026,-0.05,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q2 2025,0.01,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q2 2026,-0.03,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,9
+Q2 2026,other,Income tax effect of the foregoing adjustments,FY 2023,-3121.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Income tax effect of the foregoing adjustments,FY 2024,1736.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Income tax effect of the foregoing adjustments,FY 2025,-9655.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Income tax effect of the foregoing adjustments,Q1 2025,-1658.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Income tax effect of the foregoing adjustments,Q1 2026,5277.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Income tax effect of the foregoing adjustments,Q2 2025,-2255.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Income tax effect of the foregoing adjustments,Q2 2026,2670.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,FY 2023,6866.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,FY 2024,8510.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,FY 2025,1601.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,Q1 2025,673.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,Q1 2026,-14646.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,Q2 2025,1257.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,other,Loss (gain) from changes in the fair value of interest rate swaps,Q2 2026,5261.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,7
+Q2 2026,recon_eps,Adjusted Earnings per Share,Q2 2025,0.17,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Adjusted Earnings per Share,Q2 2026,0.46,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Amortization and impairment of acquired intangible assets,Q2 2025,0.06,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Amortization and impairment of acquired intangible assets,Q2 2026,0.13,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Diluted earnings per share,Q2 2025,0.11,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Diluted earnings per share,Q2 2026,0.28,usd_per_share,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q2 2025,0.01,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q2 2026,-0.03,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Income tax effect of the foregoing adjustments,Q2 2025,-0.03,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Income tax effect of the foregoing adjustments,Q2 2026,-0.02,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Loss (gain) from changes in the fair value of interest rate swaps,Q2 2025,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Loss (gain) from changes in the fair value of interest rate swaps,Q2 2026,0.01,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Other items not indicative of core or ongoing operating performance,Q2 2025,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Other items not indicative of core or ongoing operating performance,Q2 2026,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Reorganization-related expense,Q2 2025,0.02,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Reorganization-related expense,Q2 2026,0.08,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Transaction-related expense,Q2 2025,0.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_eps,Transaction-related expense,Q2 2026,0.01,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,8
+Q2 2026,recon_net_income,Adjusted Net Income,Q2 2025,106385.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Adjusted Net Income,Q2 2026,292976.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Adjusted Net Income Margin,Q2 2025,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Adjusted Net Income Margin,Q2 2026,42.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Amortization and impairment of acquired intangible assets,Q2 2025,36070.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Amortization and impairment of acquired intangible assets,Q2 2026,82310.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q2 2025,7094.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Foreign exchange loss (gain) on assets and liabilities denominated in a non-functional currency,Q2 2026,-19610.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Income tax effect of the foregoing adjustments,Q2 2025,-16332.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Income tax effect of the foregoing adjustments,Q2 2026,-10541.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Loss (gain) from changes in the fair value of interest rate swaps,Q2 2025,1257.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Loss (gain) from changes in the fair value of interest rate swaps,Q2 2026,5261.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Net income,Q2 2025,65253.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Net income,Q2 2026,176967.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Net income as a percentage of revenue,Q2 2025,21.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Net income as a percentage of revenue,Q2 2026,25.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Other items not indicative of core or ongoing operating performance,Q2 2025,1001.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Other items not indicative of core or ongoing operating performance,Q2 2026,1236.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Reorganization-related expense,Q2 2025,11338.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Reorganization-related expense,Q2 2026,50799.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Transaction-related expense,Q2 2025,705.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_net_income,Transaction-related expense,Q2 2026,6553.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,6
+Q2 2026,recon_operating_income,Adjusted Operating Income,Q2 2025,152525.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Adjusted Operating Income,Q2 2026,381149.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Adjusted Operating Income Margin,Q2 2025,49.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Adjusted Operating Income Margin,Q2 2026,54.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Amortization and impairment of acquired intangible assets,Q2 2025,36070.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Amortization and impairment of acquired intangible assets,Q2 2026,82310.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Operating income,Q2 2025,100617.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Operating income,Q2 2026,240251.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Operating income as a percentage of revenue,Q2 2025,32.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Operating income as a percentage of revenue,Q2 2026,34.0,percent,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Other items not indicative of core or ongoing operating performance,Q2 2025,3795.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Other items not indicative of core or ongoing operating performance,Q2 2026,1236.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Reorganization-related expense,Q2 2025,11338.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Reorganization-related expense,Q2 2026,50799.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Transaction-related expense,Q2 2025,705.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
+Q2 2026,recon_operating_income,Transaction-related expense,Q2 2026,6553.0,usd_thousands,https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm,5
