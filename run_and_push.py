@@ -53,7 +53,7 @@ def push():
         sys.exit(f"Token belongs to {me.get('login')!r}, expected {OWNER}. Stopping.")
     if api(f"/repos/{OWNER}/{REPO}", token)[0] == 404:
         api("/user/repos", token, "POST", {"name": REPO, "private": False, "description":
-            "Bending Spoons' financial statements from SEC filings: organic vs acquired growth, IFRS vs adjusted "
+            "Bending Spoons' financial statements from SEC filings: organic vs acquired growth, US GAAP vs adjusted "
             "margins, cash conversion, acquisition debt and guidance. Every figure source-linked."})
         api(f"/repos/{OWNER}/{REPO}/topics", token, "PUT", {"names": [
             "financial-analysis", "financial-statements", "sec-edgar", "python", "pandas", "excel", "data-analysis"]})

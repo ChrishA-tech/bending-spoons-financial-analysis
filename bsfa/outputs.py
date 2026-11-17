@@ -100,7 +100,7 @@ def charts(r: Dict):
         m = q.dropna(subset=["operating_margin_pct"])
         fig, ax = plt.subplots(figsize=(7, 3.6))
         for col, lab, colr in (("adj_operating_margin_pct", "Adjusted operating margin", ACCENT),
-                               ("operating_margin_pct", "Operating margin (IFRS)", INK),
+                               ("operating_margin_pct", "Operating margin (US GAAP)", INK),
                                ("net_margin_pct", "Net margin", MUTED)):
             s = m[["period", col]].dropna()
             ax.plot(s.period, s[col], marker="o", color=colr, label=lab)
@@ -139,8 +139,8 @@ def findings(r: Dict) -> str:
         orgs = q.dropna(subset=["organic_growth_pct"])
         if len(orgs) > 1:
             L += ["- Organic growth by quarter: " + ", ".join(f"{a} {b}%" for a, b in zip(orgs.period, orgs.organic_growth_pct)), ""]
-        L += ["## 2. Profitability: IFRS vs adjusted",
-              f"- {x.period}: operating margin {x.operating_margin_pct}% (IFRS) vs adjusted {x.adj_operating_margin_pct}%: "
+        L += ["## 2. Profitability: US GAAP vs adjusted",
+              f"- {x.period}: operating margin {x.operating_margin_pct}% (US GAAP) vs adjusted {x.adj_operating_margin_pct}%: "
               f"a {x.gap_adj_vs_gaap_pp}-point gap. Amortisation of acquired intangibles is {x.amortisation_pct_rev}% of "
               f"revenue and reorganisation costs {x.reorganisation_pct_rev}%.",
               f"- Interest coverage (operating income / interest expense): {x.interest_coverage_x}x.", ""]
@@ -149,7 +149,8 @@ def findings(r: Dict) -> str:
         L += ["## 3. Does profit turn into cash?",
               f"- {y.period}: operating cash flow ${y.operating_cash_flow_m:,.0f}m, capex ${-y.capex_m:,.0f}m, free cash flow "
               f"${y.free_cash_flow_m:,.0f}m ({y.fcf_margin_pct}% of revenue); operating cash flow / net income = "
-              f"{y.cash_conversion_ocf_to_net_income}x.",
+              f"{y.cash_conversion_ocf_to_net_income}x. Under US GAAP, interest paid is already deducted inside "
+              f"operating cash flow.",
               f"- Acquisitions cost ${-y.acquisitions_m:,.0f}m in the same period ({y.acquisitions_to_fcf_x}x free cash flow), "
               f"funded with ${y.debt_raised_m:,.0f}m of new debt; interest paid ${y.interest_paid_m:,.0f}m.", ""]
     if len(bs):
@@ -180,7 +181,7 @@ def findings(r: Dict) -> str:
         L.append("")
     L += ["## Questions for the analyst (answer these in the memo, in your own words)",
           "1. Is 3% organic growth a problem for a company valued on its acquisition engine? What would you watch next quarter?",
-          "2. Which adjustments between IFRS and adjusted operating income are truly one-off, and which recur every quarter?",
+          "2. Which adjustments between GAAP and adjusted operating income are truly one-off, and which recur every quarter?",
           "3. Free cash flow covers only a fraction of acquisition spend. What happens if debt markets tighten?",
           "4. Does the implied Q4 revenue look achievable given the quarterly run-rate and the pending acquisitions?",
           "5. If you were on the finance team, which single number would you want to improve first, and how?"]

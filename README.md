@@ -6,7 +6,7 @@ statement and non-GAAP reconciliations into one table **with a link to the sourc
 answers five questions:
 
 1. **Growth:** how much is organic, and how much is bought through acquisitions?
-2. **Profitability:** how far apart are IFRS and adjusted operating margins, and what fills the gap?
+2. **Profitability:** how far apart are US GAAP and adjusted operating margins, and what fills the gap?
 3. **Cash:** does profit turn into cash, and how does free cash flow compare with acquisition spend?
 4. **Debt:** how much debt funds the acquisitions, and how well do earnings cover the interest?
 5. **Guidance:** what does full-year guidance imply for the rest of the year?
@@ -43,8 +43,8 @@ Run `python3 run_and_push.py --run` to fill this in.
 | Metric | Definition |
 |---|---|
 | Growth from acquisitions | Reported year-on-year revenue growth minus the company's stated organic growth |
-| Gap, adjusted vs IFRS | (Adjusted operating income − operating income) / revenue |
-| Free cash flow | Operating cash flow − purchases of property, plant, equipment and intangible assets |
+| Gap, adjusted vs GAAP | (Adjusted operating income − operating income) / revenue |
+| Free cash flow | Operating cash flow − purchases of property, plant, equipment and intangible assets (operating cash flow is after interest paid, as US GAAP requires) |
 | Cash conversion | Operating cash flow / net income |
 | Net debt | Long-term debt (current + non-current) − cash and cash equivalents |
 | Leverage (proxy) | Net debt / (latest quarter's adjusted operating income × 4); the company's own ratio uses adjusted EBITDA |
@@ -56,5 +56,5 @@ Run `python3 run_and_push.py --run` to fill this in.
 python3 run_and_push.py --run        # free: downloads public SEC filings, about 1 minute
 ```
 
-Data: public SEC EDGAR filings by Bending Spoons S.p.A. (CIK 2004711). This is an independent student analysis, not
+Data: public SEC EDGAR filings by Bending Spoons S.p.A. (CIK 2004711); its statements are prepared under US GAAP. This is an independent student analysis, not
 investment advice, and is not affiliated with Bending Spoons.
