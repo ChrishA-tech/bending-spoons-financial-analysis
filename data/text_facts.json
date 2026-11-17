@@ -1,0 +1,27 @@
+{
+  "Q2 2026": {
+    "organic_growth_pct": 3.0,
+    "organic_sentence": "Organic revenue growth  was 3% in Q2 2026, with Tractive and WeTransfer making the largest contributions.",
+    "guidance": [
+      "Outlook For Q3 2026, we forecast the following results: Revenue of $733 million to $745 million, implying year-over-year growth of 113% at the midpoint Adjusted Operating Income of $380 million to $400 million, implying year-over-year growth of 111% at the midpoint  For the full year 2026, we forecast the following results: Revenue of $2.78 billion to $2.82 billion, implying year-over-year growth "
+    ],
+    "guidance_ranges": [
+      {
+        "target": "Q3 2026",
+        "revenue_low_m": 733.0,
+        "revenue_high_m": 745.0,
+        "midpoint_m": 739.0,
+        "sentence": "For Q3 2026, we forecast the following results: Revenue of $733 million to $745 million"
+      },
+      {
+        "target": "FY 2026",
+        "revenue_low_m": 2780.0,
+        "revenue_high_m": 2820.0,
+        "midpoint_m": 2800.0,
+        "sentence": "For the full year 2026, we forecast the following results: Revenue of $2.78 billion to $2.82 billion"
+      }
+    ],
+    "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp_ex99-1.htm",
+    "filed": "2026-08-13"
+  }
+}
